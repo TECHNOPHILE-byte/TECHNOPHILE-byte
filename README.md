@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me: raozardaimali@gmail.com
-- 😄 Pronouns: her/she
+- 😄 Pronouns: him/he
 - ⚡ Fun fact: always find shortcuts..
